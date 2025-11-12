@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1762950249 source:c:\users\azanm\desktop\shopping cart system\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<fstream>
+	<algorithm>
+	<limits>
+
